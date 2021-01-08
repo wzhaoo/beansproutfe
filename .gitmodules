@@ -1,0 +1,3 @@
+[submodule "oauth-bridge-template"]
+	path = oauth-bridge-template
+	url = https://github.com/mpj/oauth-bridge-template
